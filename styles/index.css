@@ -1,0 +1,11 @@
+.flex {
+  display: flex !important;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.options {
+  display: grid;
+}
